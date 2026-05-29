@@ -2,6 +2,5 @@
 
 Esta pasta guarda arquivos auxiliares do `README.md` principal do perfil.
 
-- `banner.jpg`: imagem de banner (SS4 Goku, 1920×1080, hospedada localmente).
-- `terminal.svg`: hero principal do perfil com estética terminal, HUD rosa e narrativa de treino.
+- `terminal.svg`: hero principal do perfil com estética terminal, HUD rosa e narrativa de evolução.
 - `badges/`: badges transparentes e rosa pastel para a stack principal.

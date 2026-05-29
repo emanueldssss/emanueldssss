@@ -52,10 +52,10 @@
 
     <text x="122" y="154" fill="#FF4FD8" font-family="Consolas, 'SFMono-Regular', monospace" font-size="18" font-weight="700">$ javac Main.java &amp;&amp; java Main</text>
     <text x="122" y="200" fill="#F8FAFC" font-family="Consolas, 'SFMono-Regular', monospace" font-size="34" font-weight="800" filter="url(#titleGlow)">System.out.println(&quot;Hello, GitHub&quot;);</text>
-    <text x="122" y="244" fill="#CBD5E1" font-family="Consolas, 'SFMono-Regular', monospace" font-size="20">beginner mode · projetos pequenos · progresso real</text>
+    <text x="122" y="244" fill="#CBD5E1" font-family="Consolas, 'SFMono-Regular', monospace" font-size="20">Java fundamentals · projetos pequenos · progresso real</text>
 
     <rect x="860" y="142" width="172" height="96" rx="24" fill="#111114" stroke="#3F3F46"/>
     <text x="946" y="184" text-anchor="middle" fill="#FF4FD8" font-family="Consolas, 'SFMono-Regular', monospace" font-size="40" font-weight="900">01</text>
-    <text x="946" y="215" text-anchor="middle" fill="#F8FAFC" font-family="Consolas, 'SFMono-Regular', monospace" font-size="15" font-weight="800">TRAINING ARC</text>
+    <text x="946" y="215" text-anchor="middle" fill="#F8FAFC" font-family="Consolas, 'SFMono-Regular', monospace" font-size="15" font-weight="800">FOUNDATION</text>
   </g>
 </svg>
