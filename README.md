@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/1lpoFwARd3RFalCXdh/giphy.gif" alt="Goku com aura" width="420" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHQ3OG5nMmdya2k2aHl1bXZxMWw0N3pieGczdDdnNXhiOWplaDhuMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vThGQEkz4f9eg/giphy.gif" alt="Goku com aura" width="420" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=FF4FD8&center=true&vCenter=true&width=900&lines=System.out.println(%22Hello%2C+GitHub%22);Java+Beginner+%7C+HTML+%26+CSS+%7C+Python;Computa%C3%A7%C3%A3o%2C+Criatividade%2C+Jogos+e+IA" alt="Typing SVG" />
@@ -8,15 +8,15 @@
 
 <p align="center">
   <a href="https://github.com/emanueldssss">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-emanueldssss-FF4FD8?style=for-the-badge&logo=github&logoColor=white&labelColor=2A2A2E" />
+    <img alt="GitHub emanueldssss" src="./src/cards/github.svg" width="205" />
   </a>
   <a href="https://github.com/emanueldssss?tab=followers">
-    <img alt="Seguidores" src="https://img.shields.io/github/followers/emanueldssss?style=for-the-badge&logo=github&logoColor=white&label=Seguidores&labelColor=2A2A2E&color=FF4FD8" />
+    <img alt="Seguidores" src="./src/cards/followers.svg" width="205" />
   </a>
   <a href="https://github.com/emanueldssss?tab=repositories">
-    <img alt="Repositórios" src="https://img.shields.io/badge/Reposit%C3%B3rios-em%20breve-F9A8D4?style=for-the-badge&logo=gitbook&logoColor=2A2A2E&labelColor=2A2A2E" />
+    <img alt="Repositórios" src="./src/cards/repos.svg" width="205" />
   </a>
-  <img alt="Visitas" src="https://komarev.com/ghpvc/?username=emanueldssss&style=for-the-badge&color=ff69b4&label=VISITAS" />
+  <img alt="Visitas" src="./src/cards/visits.svg" width="205" />
 </p>
 
 ## Sobre mim
@@ -36,10 +36,10 @@ Sou apaixonado por computação e estou em desenvolvimento na área, com foco pr
 ## Stack em foco
 
 <p align="center">
-  <img alt="Java beginner" src="https://img.shields.io/badge/Java-Beginner-FF4FD8?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=2A2A2E" />
-  <img alt="HTML beginner" src="https://img.shields.io/badge/HTML-Beginner-F9A8D4?style=for-the-badge&logo=html5&logoColor=2A2A2E&labelColor=2A2A2E" />
-  <img alt="CSS beginner" src="https://img.shields.io/badge/CSS-Beginner-9CA3AF?style=for-the-badge&logo=css3&logoColor=white&labelColor=2A2A2E" />
-  <img alt="Python beginner" src="https://img.shields.io/badge/Python-Beginner-E5E7EB?style=for-the-badge&logo=python&logoColor=2A2A2E&labelColor=2A2A2E" />
+  <img alt="Java beginner" src="./src/cards/java.svg" width="205" />
+  <img alt="HTML beginner" src="./src/cards/html.svg" width="205" />
+  <img alt="CSS beginner" src="./src/cards/css.svg" width="205" />
+  <img alt="Python beginner" src="./src/cards/python.svg" width="205" />
 </p>
 
 | Tecnologia | Nível atual | Onde estou focando |
