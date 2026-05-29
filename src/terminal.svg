@@ -1,83 +1,61 @@
-<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#05050A"/>
-      <stop offset="0.48" stop-color="#0B0B14"/>
-      <stop offset="1" stop-color="#15101F"/>
+      <stop offset="0.52" stop-color="#0A0A12"/>
+      <stop offset="1" stop-color="#140D1D"/>
     </linearGradient>
-    <linearGradient id="edge" x1="80" y1="54" x2="1120" y2="366" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FF4FD8" stop-opacity="0.7"/>
-      <stop offset="0.5" stop-color="#F8FAFC" stop-opacity="0.14"/>
-      <stop offset="1" stop-color="#D946EF" stop-opacity="0.58"/>
+    <linearGradient id="stroke" x1="92" y1="58" x2="1108" y2="302" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF4FD8" stop-opacity="0.72"/>
+      <stop offset="0.54" stop-color="#F8FAFC" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#D946EF" stop-opacity="0.62"/>
     </linearGradient>
-    <radialGradient id="pinkGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(935 66) rotate(135) scale(360 300)">
-      <stop stop-color="#FF4FD8" stop-opacity="0.62"/>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(920 56) rotate(132) scale(360 270)">
+      <stop stop-color="#FF4FD8" stop-opacity="0.54"/>
       <stop offset="1" stop-color="#FF4FD8" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="violetGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(190 362) rotate(-20) scale(360 230)">
-      <stop stop-color="#D946EF" stop-opacity="0.34"/>
+    <radialGradient id="soft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(190 316) rotate(-14) scale(300 180)">
+      <stop stop-color="#D946EF" stop-opacity="0.24"/>
       <stop offset="1" stop-color="#D946EF" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="pinkFill" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#FF4FD8"/>
-      <stop offset="1" stop-color="#D946EF"/>
-    </linearGradient>
-    <filter id="shadow" x="46" y="30" width="1108" height="370" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feDropShadow dx="0" dy="28" stdDeviation="30" flood-color="#000000" flood-opacity="0.55"/>
+    <filter id="cardShadow" x="54" y="32" width="1092" height="302" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="24" stdDeviation="26" flood-color="#000000" flood-opacity="0.52"/>
     </filter>
-    <filter id="textGlow" x="0" y="0" width="1200" height="420" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#FF4FD8" flood-opacity="0.42"/>
+    <filter id="titleGlow" x="0" y="0" width="1200" height="360" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#FF4FD8" flood-opacity="0.35"/>
     </filter>
   </defs>
 
-  <rect width="1200" height="420" rx="34" fill="url(#bg)"/>
-  <rect width="1200" height="420" rx="34" fill="url(#pinkGlow)"/>
-  <rect width="1200" height="420" rx="34" fill="url(#violetGlow)"/>
+  <rect width="1200" height="360" rx="34" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="34" fill="url(#glow)"/>
+  <rect width="1200" height="360" rx="34" fill="url(#soft)"/>
 
-  <g opacity="0.22">
-    <path d="M84 86H1116" stroke="#334155"/>
-    <path d="M84 154H1116" stroke="#334155"/>
-    <path d="M84 222H1116" stroke="#334155"/>
-    <path d="M84 290H1116" stroke="#334155"/>
-    <path d="M178 44V376" stroke="#334155"/>
-    <path d="M358 44V376" stroke="#334155"/>
-    <path d="M538 44V376" stroke="#334155"/>
-    <path d="M718 44V376" stroke="#334155"/>
-    <path d="M898 44V376" stroke="#334155"/>
-    <path d="M1078 44V376" stroke="#334155"/>
+  <g opacity="0.18">
+    <path d="M92 96H1108" stroke="#334155"/>
+    <path d="M92 168H1108" stroke="#334155"/>
+    <path d="M92 240H1108" stroke="#334155"/>
+    <path d="M206 44V316" stroke="#334155"/>
+    <path d="M406 44V316" stroke="#334155"/>
+    <path d="M606 44V316" stroke="#334155"/>
+    <path d="M806 44V316" stroke="#334155"/>
+    <path d="M1006 44V316" stroke="#334155"/>
   </g>
 
-  <path d="M74 318C151 244 211 224 296 236C395 250 437 328 535 314C642 299 667 181 785 162C891 145 967 219 1132 174" stroke="#FF4FD8" stroke-opacity="0.32" stroke-width="3"/>
-  <path d="M88 104C176 73 250 80 310 119C402 179 478 178 566 126C660 70 767 53 870 94" stroke="#F8FAFC" stroke-opacity="0.12" stroke-width="2"/>
+  <g filter="url(#cardShadow)">
+    <rect x="80" y="56" width="1040" height="248" rx="28" fill="#090911" stroke="url(#stroke)"/>
+    <rect x="80" y="56" width="1040" height="54" rx="28" fill="#11111D"/>
+    <path d="M80 110H1120" stroke="#27273A"/>
+    <circle cx="118" cy="83" r="7" fill="#FF5F57"/>
+    <circle cx="144" cy="83" r="7" fill="#FFBD2E"/>
+    <circle cx="170" cy="83" r="7" fill="#28C840"/>
+    <text x="600" y="88" text-anchor="middle" fill="#A1A1AA" font-family="Consolas, 'SFMono-Regular', monospace" font-size="14" letter-spacing="1.6">emanueldssss</text>
 
-  <g filter="url(#shadow)">
-    <rect x="72" y="52" width="1056" height="316" rx="28" fill="#0A0A12" stroke="url(#edge)"/>
-    <rect x="72" y="52" width="1056" height="58" rx="28" fill="#11111D"/>
-    <path d="M72 110H1128" stroke="#27273A"/>
-    <circle cx="110" cy="82" r="8" fill="#FF5F57"/>
-    <circle cx="138" cy="82" r="8" fill="#FFBD2E"/>
-    <circle cx="166" cy="82" r="8" fill="#28C840"/>
-    <text x="600" y="88" text-anchor="middle" fill="#A1A1AA" font-family="Consolas, 'SFMono-Regular', monospace" font-size="15" letter-spacing="1.8">emanueldssss.training-room</text>
+    <text x="122" y="154" fill="#FF4FD8" font-family="Consolas, 'SFMono-Regular', monospace" font-size="18" font-weight="700">$ javac Main.java &amp;&amp; java Main</text>
+    <text x="122" y="200" fill="#F8FAFC" font-family="Consolas, 'SFMono-Regular', monospace" font-size="34" font-weight="800" filter="url(#titleGlow)">System.out.println(&quot;Hello, GitHub&quot;);</text>
+    <text x="122" y="244" fill="#CBD5E1" font-family="Consolas, 'SFMono-Regular', monospace" font-size="20">beginner mode · projetos pequenos · progresso real</text>
 
-    <text x="112" y="156" fill="#FF4FD8" font-family="Consolas, 'SFMono-Regular', monospace" font-size="20" font-weight="700">$ boot --mode=beginner --truth=on</text>
-    <text x="112" y="202" fill="#F8FAFC" font-family="Consolas, 'SFMono-Regular', monospace" font-size="34" font-weight="800" filter="url(#textGlow)">System.out.println(&quot;Hello, GitHub&quot;);</text>
-    <text x="112" y="244" fill="#E5E7EB" font-family="Consolas, 'SFMono-Regular', monospace" font-size="21">main quest: Java fundamentals</text>
-    <text x="112" y="280" fill="#CBD5E1" font-family="Consolas, 'SFMono-Regular', monospace" font-size="21">side quests: HTML/CSS visuals + Python logic</text>
-    <text x="112" y="316" fill="#94A3B8" font-family="Consolas, 'SFMono-Regular', monospace" font-size="18">rule: build small, break things, fix them, publish real progress.</text>
-
-    <rect x="818" y="136" width="236" height="178" rx="26" fill="#111114" stroke="#3F3F46"/>
-    <circle cx="936" cy="198" r="48" fill="#FF4FD8" fill-opacity="0.13" stroke="#FF4FD8" stroke-opacity="0.76"/>
-    <circle cx="936" cy="198" r="35" fill="url(#pinkFill)" fill-opacity="0.18" stroke="#F8FAFC" stroke-opacity="0.18"/>
-    <text x="936" y="213" text-anchor="middle" fill="#FF4FD8" font-family="Consolas, 'SFMono-Regular', monospace" font-size="48" font-weight="900">01</text>
-    <text x="936" y="267" text-anchor="middle" fill="#F8FAFC" font-family="Consolas, 'SFMono-Regular', monospace" font-size="19" font-weight="800">LEVEL BEGINNER</text>
-    <text x="936" y="291" text-anchor="middle" fill="#A1A1AA" font-family="Consolas, 'SFMono-Regular', monospace" font-size="13" letter-spacing="1.4">TRAINING ARC ACTIVE</text>
-
-    <rect x="838" y="326" width="62" height="24" rx="12" fill="#FF4FD8" fill-opacity="0.16" stroke="#FF4FD8" stroke-opacity="0.38"/>
-    <rect x="914" y="326" width="62" height="24" rx="12" fill="#FF4FD8" fill-opacity="0.16" stroke="#FF4FD8" stroke-opacity="0.38"/>
-    <rect x="990" y="326" width="46" height="24" rx="12" fill="#FF4FD8" fill-opacity="0.16" stroke="#FF4FD8" stroke-opacity="0.38"/>
-    <text x="869" y="342" text-anchor="middle" fill="#F8FAFC" font-family="Consolas, 'SFMono-Regular', monospace" font-size="12" font-weight="700">JAVA</text>
-    <text x="945" y="342" text-anchor="middle" fill="#F8FAFC" font-family="Consolas, 'SFMono-Regular', monospace" font-size="12" font-weight="700">HTML</text>
-    <text x="1013" y="342" text-anchor="middle" fill="#F8FAFC" font-family="Consolas, 'SFMono-Regular', monospace" font-size="12" font-weight="700">PY</text>
+    <rect x="860" y="142" width="172" height="96" rx="24" fill="#111114" stroke="#3F3F46"/>
+    <text x="946" y="184" text-anchor="middle" fill="#FF4FD8" font-family="Consolas, 'SFMono-Regular', monospace" font-size="40" font-weight="900">01</text>
+    <text x="946" y="215" text-anchor="middle" fill="#F8FAFC" font-family="Consolas, 'SFMono-Regular', monospace" font-size="15" font-weight="800">TRAINING ARC</text>
   </g>
-
 </svg>
