@@ -36,17 +36,16 @@ Sou apaixonado por computação e estou em desenvolvimento na área, com foco pr
 ## Stack em foco
 
 <p align="center">
-  <img alt="Java beginner" src="./src/cards/java.svg" width="205" />
-  <img alt="HTML beginner" src="./src/cards/html.svg" width="205" />
-  <img alt="CSS beginner" src="./src/cards/css.svg" width="205" />
-  <img alt="Python beginner" src="./src/cards/python.svg" width="205" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,python&theme=dark" alt="Java, HTML, CSS, Python" />
+  <br>
+  <sub>Java · HTML · CSS · Python — iniciando cada uma com projetos reais</sub>
 </p>
 
-| Tecnologia | Nível atual | Onde estou focando |
-| --- | --- | --- |
-| Java | Beginner | Lógica, sintaxe, classes, métodos e primeiros projetos no terminal. |
-| HTML & CSS | Beginner | Estrutura de páginas, semântica, responsividade e visual limpo. |
-| Python | Beginner | Exercícios, scripts simples e treino de raciocínio. |
+| Tecnologia | Nível | Foco atual |
+|:---|:---:|:---|
+| **Java** | Beginner | Lógica, sintaxe, classes, métodos e primeiros projetos no terminal |
+| **HTML & CSS** | Beginner | Estrutura de páginas, semântica, responsividade e visual limpo |
+| **Python** | Beginner | Exercícios, scripts simples e treino de raciocínio |
 
 ## Ferramentas e IA que curto
 
