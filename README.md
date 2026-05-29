@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./src/terminal.svg" alt="Banner do perfil de emanueldssss" width="100%" />
+  <img src="./src/terminal.svg?v=java" alt="Banner do perfil de emanueldssss" width="100%" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=900&lines=System.out.println(%22Hello%2C+GitHub%22);Java+%E2%80%A2+HTML+%26+CSS+%E2%80%A2+Python;Computa%C3%A7%C3%A3o%2C+anime+e+muito+carinho" alt="Typing SVG" />
