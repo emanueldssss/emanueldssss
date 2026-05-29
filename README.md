@@ -1,6 +1,6 @@
 <div align="center">
   <div style="position:relative; width:100%; max-width:896px; aspect-ratio:16/9; border-radius:16px; overflow:hidden; box-shadow: 0 8px 32px rgba(0,0,0,0.5);">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHQ3OG5nMmdya2k2aHl1bXZxMWw0N3pieGczdDdnNXhiOWplaDhuMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vThGQEkz4f9eg/giphy.gif" alt="Goku com aura" style="width:100%; height:100%; object-fit:cover; display:block;" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHQ3OG5nMmdya2k2aHl1bXZxMWw0N3pieGczdDdnNXhiOWplaDhuMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vThGQEkz4f9eg/giphy.gif" alt="Goku com aura" style="width:100%; height:100%; object-fit:fill; display:block;" />
   </div>
 
   <a href="https://git.io/typing-svg">
