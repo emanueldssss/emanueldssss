@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://gifdb.com/images/high/pointing-hands-and-smiling-goku-meme-kuwqp2baut5y0n5c.gif" alt="Goku sorrindo e apontando" width="886" height="500" style="max-width:100%; border-radius:16px; box-shadow: 0 8px 32px rgba(0,0,0,0.5);" />
+  <img src="https://w.wallhaven.cc/full/yx/wallhaven-yxeovd.jpg" alt="Goku SS4 sorrindo" width="896" height="504" style="max-width:100%; border-radius:16px; box-shadow: 0 8px 32px rgba(0,0,0,0.5);" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=FF4FD8&center=true&vCenter=true&width=900&lines=System.out.println(%22Hello%2C+GitHub%22);Java+Beginner+%7C+HTML+%26+CSS+%7C+Python;Computa%C3%A7%C3%A3o%2C+Criatividade%2C+Jogos+e+IA" alt="Typing SVG" />
