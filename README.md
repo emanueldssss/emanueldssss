@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="./src/terminal.svg" alt="Terminal rosa do perfil emanueldssss" width="100%" />
+  <img src="./src/terminal.svg" alt="Emanuel em modo treino" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2600&pause=900&color=FF4FD8&center=true&vCenter=true&width=900&lines=System.out.println(%22Hello%2C+GitHub%22);Java+primeiro.+Projetos+pequenos.+Evolu%C3%A7%C3%A3o+real.;HTML+%26+CSS+pra+dar+forma.+Python+pra+treinar+l%C3%B3gica.;Computa%C3%A7%C3%A3o+%2B+jogos+%2B+IA+%3D+meu+modo+treino." alt="Texto digitando: Java, HTML, CSS, Python e evolução real" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2600&pause=900&color=FF4FD8&center=true&vCenter=true&width=900&lines=System.out.println(%22Hello%2C+GitHub%22);Java+primeiro.+Projetos+pequenos.+Evolu%C3%A7%C3%A3o+real.;HTML+%26+CSS+pra+dar+forma.+Python+pra+treinar+l%C3%B3gica.;Computa%C3%A7%C3%A3o+%2B+jogos+%2B+IA+%3D+meu+modo+treino." alt="Emanuel em modo treino" />
   </a>
 </div>
 
@@ -40,13 +40,6 @@ goal = "publicar projetos reais"</code></pre>
 
 ## Stack de treino
 
-<p align="center">
-  <img alt="Java" src="./src/badges/java.svg" width="92" />
-  <img alt="HTML" src="./src/badges/html.svg" width="92" />
-  <img alt="CSS" src="./src/badges/css.svg" width="92" />
-  <img alt="Python" src="./src/badges/python.svg" width="92" />
-</p>
-
 | Tecnologia | Nível | O que estou treinando |
 |:---|:---:|:---|
 | **Java** | Beginner | lógica, sintaxe, classes, métodos, terminal e primeiros mini-projetos |
@@ -62,26 +55,7 @@ goal = "publicar projetos reais"</code></pre>
 | `03` | Scripts Python pequenos | automatizar tarefas e pensar melhor |
 | `04` | READMEs decentes | explicar o que fiz, como rodar e o que aprendi |
 
-## Ferramentas que viraram sparring
-
-<p align="center">
-  <img alt="Claude Code" src="./src/badges/claude.svg" width="140" />
-  <img alt="ChatGPT" src="./src/badges/chatgpt.svg" width="140" />
-  <img alt="OpenCode" src="./src/badges/opencode.svg" width="140" />
-  <img alt="VS Code" src="./src/badges/vscode.svg" width="140" />
-</p>
-
-> IA aqui não é atalho para fingir que sei tudo. É sparring: eu pergunto, testo, erro, corrijo e tento entender o código antes de publicar.
-
-## Painel de evolução
-
-<div align="center">
-  <img alt="Resumo do perfil GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emanueldssss&theme=radical" />
-</div>
-
-<p align="center">
-  <sub>Quando os projetos públicos nascerem, esse painel vira histórico real de evolução.</sub>
-</p>
+## Registro de commits
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emanueldssss/emanueldssss/output/github-contribution-grid-snake-dark.svg" />
