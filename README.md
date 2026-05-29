@@ -34,6 +34,13 @@ goal = "projetos reais"</code></pre>
 
 `Java` como base principal · `HTML & CSS` para interface · `Python` para lógica e scripts pequenos
 
+<p align="center">
+  <img alt="Java" src="./src/badges/java.svg" width="132" />
+  <img alt="HTML" src="./src/badges/html.svg" width="132" />
+  <img alt="CSS" src="./src/badges/css.svg" width="132" />
+  <img alt="Python" src="./src/badges/python.svg" width="132" />
+</p>
+
 | Foco | Treino atual |
 |:---|:---|
 | **Java** | lógica, sintaxe, classes, métodos e mini-projetos no terminal |
