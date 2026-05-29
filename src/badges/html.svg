@@ -14,10 +14,8 @@
   </defs>
   <circle cx="40" cy="36" r="30" fill="none" stroke="url(#ring)" stroke-width="1.5"/>
   <circle cx="40" cy="36" r="26" fill="url(#bg)" filter="url(#glow)"/>
-  <g fill="none" stroke="white" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" transform="translate(40,36)">
-    <polyline points="-12,-12 -16,0 -12,12"/>
-    <polyline points="12,-12 16,0 12,12"/>
-    <line x1="-6" y1="-14" x2="6" y2="14"/>
+  <g fill="white" transform="translate(40,36) scale(1.45) translate(-12,-12)">
+    <path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z"/>
   </g>
   <text x="40" y="78" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" fill="#F8FAFC" font-weight="600" text-anchor="middle">HTML</text>
 </svg>
