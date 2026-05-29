@@ -1,0 +1,60 @@
+<svg width="1200" height="380" viewBox="0 0 1200 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="380" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#070A12"/>
+      <stop offset="0.52" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <radialGradient id="glowCyan" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(935 80) rotate(119.4) scale(260 360)">
+      <stop stop-color="#00D9FF" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#00D9FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowPurple" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(170 310) rotate(-24.8) scale(330 230)">
+      <stop stop-color="#7C3AED" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softShadow" x="140" y="50" width="920" height="290" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="26" stdDeviation="28" flood-color="#000000" flood-opacity="0.42"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="380" rx="30" fill="url(#bg)"/>
+  <rect width="1200" height="380" rx="30" fill="url(#glowCyan)"/>
+  <rect width="1200" height="380" rx="30" fill="url(#glowPurple)"/>
+
+  <g opacity="0.26">
+    <path d="M64 74H1136" stroke="#263244"/>
+    <path d="M64 126H1136" stroke="#263244"/>
+    <path d="M64 178H1136" stroke="#263244"/>
+    <path d="M64 230H1136" stroke="#263244"/>
+    <path d="M64 282H1136" stroke="#263244"/>
+    <path d="M168 44V334" stroke="#263244"/>
+    <path d="M324 44V334" stroke="#263244"/>
+    <path d="M480 44V334" stroke="#263244"/>
+    <path d="M636 44V334" stroke="#263244"/>
+    <path d="M792 44V334" stroke="#263244"/>
+    <path d="M948 44V334" stroke="#263244"/>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <rect x="172" y="68" width="856" height="244" rx="22" fill="#0B1020" stroke="#243042"/>
+    <rect x="172" y="68" width="856" height="52" rx="22" fill="#111827"/>
+    <path d="M172 104H1028" stroke="#243042"/>
+    <circle cx="208" cy="94" r="8" fill="#FF5F57"/>
+    <circle cx="236" cy="94" r="8" fill="#FFBD2E"/>
+    <circle cx="264" cy="94" r="8" fill="#28C840"/>
+    <text x="600" y="99" text-anchor="middle" fill="#94A3B8" font-family="Consolas, 'SFMono-Regular', monospace" font-size="15">emanueldssss / profile</text>
+
+    <text x="214" y="158" fill="#00D9FF" font-family="Consolas, 'SFMono-Regular', monospace" font-size="24" font-weight="700">$ whoami</text>
+    <text x="214" y="194" fill="#E5E7EB" font-family="Consolas, 'SFMono-Regular', monospace" font-size="28" font-weight="700">emanueldssss</text>
+    <text x="214" y="232" fill="#A7F3D0" font-family="Consolas, 'SFMono-Regular', monospace" font-size="22">estudo + codigo + projetos reais</text>
+    <text x="214" y="268" fill="#94A3B8" font-family="Consolas, 'SFMono-Regular', monospace" font-size="18">README em evolucao, feito para registrar progresso publico.</text>
+
+    <rect x="776" y="150" width="178" height="104" rx="18" fill="#101827" stroke="#25334A"/>
+    <text x="865" y="190" text-anchor="middle" fill="#7C3AED" font-family="Consolas, 'SFMono-Regular', monospace" font-size="34" font-weight="800">&lt;/&gt;</text>
+    <text x="865" y="224" text-anchor="middle" fill="#CBD5E1" font-family="Consolas, 'SFMono-Regular', monospace" font-size="16">build in public</text>
+  </g>
+
+  <path d="M995 68C1044 83 1080 119 1091 168" stroke="#00D9FF" stroke-opacity="0.42" stroke-width="2"/>
+  <path d="M148 282C111 256 91 220 88 176" stroke="#7C3AED" stroke-opacity="0.5" stroke-width="2"/>
+</svg>
