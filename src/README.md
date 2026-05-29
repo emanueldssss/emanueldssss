@@ -1,5 +1,5 @@
 # Assets do perfil
 
-Esta pasta guarda arquivos usados pelo `README.md` principal do perfil.
+Esta pasta guarda arquivos auxiliares do `README.md` principal do perfil.
 
-- `terminal.svg`: banner local do perfil.
+- `terminal.svg`: arte alternativa em SVG com estética Java, cinza e rosa.

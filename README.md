@@ -1,22 +1,22 @@
 <div align="center">
-  <img src="./src/terminal.svg?v=java" alt="Banner do perfil de emanueldssss" width="100%" />
+  <img src="https://media.giphy.com/media/1lpoFwARd3RFalCXdh/giphy.gif" alt="Goku com aura" width="420" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=900&lines=System.out.println(%22Hello%2C+GitHub%22);Java+%E2%80%A2+HTML+%26+CSS+%E2%80%A2+Python;Computa%C3%A7%C3%A3o%2C+anime+e+muito+carinho" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=FF4FD8&center=true&vCenter=true&width=900&lines=System.out.println(%22Hello%2C+GitHub%22);Java+Beginner+%7C+HTML+%26+CSS+%7C+Python;Computa%C3%A7%C3%A3o%2C+Criatividade%2C+Jogos+e+IA" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
   <a href="https://github.com/emanueldssss">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-emanueldssss-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-emanueldssss-FF4FD8?style=for-the-badge&logo=github&logoColor=white&labelColor=2A2A2E" />
   </a>
   <a href="https://github.com/emanueldssss?tab=followers">
-    <img alt="Seguidores" src="https://img.shields.io/github/followers/emanueldssss?style=for-the-badge&logo=github&logoColor=white&label=Seguidores&labelColor=161B22&color=7C3AED" />
+    <img alt="Seguidores" src="https://img.shields.io/github/followers/emanueldssss?style=for-the-badge&logo=github&logoColor=white&label=Seguidores&labelColor=2A2A2E&color=FF4FD8" />
   </a>
   <a href="https://github.com/emanueldssss?tab=repositories">
-    <img alt="Repositórios" src="https://img.shields.io/badge/Reposit%C3%B3rios-em%20breve-00D9FF?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=161B22" />
+    <img alt="Repositórios" src="https://img.shields.io/badge/Reposit%C3%B3rios-em%20breve-F9A8D4?style=for-the-badge&logo=gitbook&logoColor=2A2A2E&labelColor=2A2A2E" />
   </a>
-  <img alt="Visitas" src="https://komarev.com/ghpvc/?username=emanueldssss&style=for-the-badge&color=7C3AED&label=VISITAS" />
+  <img alt="Visitas" src="https://komarev.com/ghpvc/?username=emanueldssss&style=for-the-badge&color=ff69b4&label=VISITAS" />
 </p>
 
 ## Sobre mim
@@ -28,7 +28,7 @@ Sou apaixonado por computação e estou em desenvolvimento na área, com foco pr
 - Estudando Java como base principal de lógica e programação orientada a objetos.
 - Praticando HTML & CSS para criar páginas simples, bonitas e organizadas.
 - Usando Python para treinar raciocínio, automações pequenas e exercícios.
-- Curto animes, programação e essa energia de treinar todo dia para evoluir, tipo Goku.
+- Curto programação, jogos, IA e essa energia de treinar todo dia para evoluir, tipo Goku.
 - Quero manter este perfil verdadeiro: nível beginner, evolução real e projetos com carinho.
 
 <br clear="right" />
@@ -36,10 +36,10 @@ Sou apaixonado por computação e estou em desenvolvimento na área, com foco pr
 ## Stack em foco
 
 <p align="center">
-  <img alt="Java beginner" src="https://img.shields.io/badge/Java-Beginner-F97316?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=111827" />
-  <img alt="HTML beginner" src="https://img.shields.io/badge/HTML-Beginner-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=111827" />
-  <img alt="CSS beginner" src="https://img.shields.io/badge/CSS-Beginner-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=111827" />
-  <img alt="Python beginner" src="https://img.shields.io/badge/Python-Beginner-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=111827" />
+  <img alt="Java beginner" src="https://img.shields.io/badge/Java-Beginner-FF4FD8?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=2A2A2E" />
+  <img alt="HTML beginner" src="https://img.shields.io/badge/HTML-Beginner-F9A8D4?style=for-the-badge&logo=html5&logoColor=2A2A2E&labelColor=2A2A2E" />
+  <img alt="CSS beginner" src="https://img.shields.io/badge/CSS-Beginner-9CA3AF?style=for-the-badge&logo=css3&logoColor=white&labelColor=2A2A2E" />
+  <img alt="Python beginner" src="https://img.shields.io/badge/Python-Beginner-E5E7EB?style=for-the-badge&logo=python&logoColor=2A2A2E&labelColor=2A2A2E" />
 </p>
 
 | Tecnologia | Nível atual | Onde estou focando |
@@ -51,10 +51,10 @@ Sou apaixonado por computação e estou em desenvolvimento na área, com foco pr
 ## Ferramentas e IA que curto
 
 <p align="center">
-  <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=111827" />
-  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white&labelColor=111827" />
-  <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-0D1117?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=111827" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=111827" />
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-FF4FD8?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=2A2A2E" />
+  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-F9A8D4?style=for-the-badge&logo=openai&logoColor=2A2A2E&labelColor=2A2A2E" />
+  <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-374151?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=2A2A2E" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-E5E7EB?style=for-the-badge&logo=visualstudiocode&logoColor=2A2A2E&labelColor=2A2A2E" />
 </p>
 
 ## Mapa do perfil
@@ -64,12 +64,12 @@ Sou apaixonado por computação e estou em desenvolvimento na área, com foco pr
 | Projetos | Aplicações pequenas em Java, HTML & CSS e Python, com README claro. |
 | Estudos | Exercícios e anotações práticas para acompanhar minha evolução. |
 | Evolução | Commits reais, sem fingir nível avançado antes da hora. |
-| Estilo | Código, animes, disciplina e carinho nos detalhes. |
+| Estilo | Código, criatividade, jogos, IA e carinho nos detalhes. |
 
 ## Painel do GitHub
 
 <div align="center">
-  <img alt="Resumo do perfil GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emanueldssss&theme=tokyonight" />
+  <img alt="Resumo do perfil GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emanueldssss&theme=radical" />
 </div>
 
 <p align="center">
@@ -80,10 +80,10 @@ Sou apaixonado por computação e estou em desenvolvimento na área, com foco pr
 
 <p align="center">
   <a href="https://github.com/emanueldssss?tab=repositories">
-    <img alt="Ver repositórios" src="https://custom-icon-badges.demolab.com/badge/-Ver%20reposit%C3%B3rios-0D1117?style=for-the-badge&logo=repo&logoColor=white&labelColor=161B22" />
+    <img alt="Ver repositórios" src="https://custom-icon-badges.demolab.com/badge/-Ver%20reposit%C3%B3rios-2A2A2E?style=for-the-badge&logo=repo&logoColor=white&labelColor=FF4FD8" />
   </a>
   <a href="https://github.com/emanueldssss/emanueldssss/issues">
-    <img alt="Abrir conversa por issue" src="https://custom-icon-badges.demolab.com/badge/-Abrir%20conversa-7C3AED?style=for-the-badge&logo=comment-discussion&logoColor=white&labelColor=161B22" />
+    <img alt="Abrir conversa por issue" src="https://custom-icon-badges.demolab.com/badge/-Abrir%20conversa-FF4FD8?style=for-the-badge&logo=comment-discussion&logoColor=white&labelColor=2A2A2E" />
   </a>
 </p>
 
