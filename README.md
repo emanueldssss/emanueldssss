@@ -8,37 +8,36 @@
 
 <p align="center">
   <a href="https://github.com/emanueldssss">
-    <img alt="GitHub emanueldssss" src="./src/cards/github.svg" width="205" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-FF4FD8?style=for-the-badge&logo=github&logoColor=white&labelColor=2A2A2E" />
   </a>
   <a href="https://github.com/emanueldssss?tab=followers">
-    <img alt="Seguidores" src="./src/cards/followers.svg" width="205" />
+    <img alt="Seguidores" src="https://img.shields.io/badge/Seguidores-FF4FD8?style=for-the-badge&logo=github&logoColor=white&labelColor=2A2A2E" />
   </a>
   <a href="https://github.com/emanueldssss?tab=repositories">
-    <img alt="Repositórios" src="./src/cards/repos.svg" width="205" />
+    <img alt="Repositórios" src="https://img.shields.io/badge/Repositórios-FF4FD8?style=for-the-badge&logo=github&logoColor=white&labelColor=2A2A2E" />
   </a>
-  <img alt="Visitas" src="./src/cards/visits.svg" width="205" />
+  <img alt="Visitas" src="https://img.shields.io/badge/Visitas-FF4FD8?style=for-the-badge&logo=github&logoColor=white&labelColor=2A2A2E" />
 </p>
 
 ## Sobre mim
 
-<img align="right" alt="Octocat" width="280" src="https://github.githubassets.com/images/mona-whisper.gif" />
-
 Sou apaixonado por computação e estou em desenvolvimento na área, com foco principal em Java. Gosto de aprender construindo, errando, corrigindo e deixando cada projeto um pouco melhor que o anterior.
 
-- Estudando Java como base principal de lógica e programação orientada a objetos.
-- Praticando HTML & CSS para criar páginas simples, bonitas e organizadas.
-- Usando Python para treinar raciocínio, automações pequenas e exercícios.
-- Curto programação, jogos, IA e essa energia de treinar todo dia para evoluir, tipo Goku.
-- Quero manter este perfil verdadeiro: nível beginner, evolução real e projetos com carinho.
-
-<br clear="right" />
+- 🔰 **Java** — base principal de lógica e programação orientada a objetos
+- 🎨 **HTML & CSS** — páginas simples, bonitas e organizadas
+- 🐍 **Python** — raciocínio, automações pequenas e exercícios
+- 🎮 Curto programação, jogos, IA e essa energia de treinar todo dia para evoluir, tipo Goku
+- 💎 Quero manter este perfil verdadeiro: nível beginner, evolução real e projetos com carinho
 
 ## Stack em foco
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,python&theme=dark" alt="Java, HTML, CSS, Python" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-FF4FD8?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=2A2A2E" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-FF4FD8?style=for-the-badge&logo=html5&logoColor=white&labelColor=2A2A2E" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-FF4FD8?style=for-the-badge&logo=css3&logoColor=white&labelColor=2A2A2E" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-FF4FD8?style=for-the-badge&logo=python&logoColor=white&labelColor=2A2A2E" />
   <br>
-  <sub>Java · HTML · CSS · Python — iniciando cada uma com projetos reais</sub>
+  <sub>Iniciando cada uma com projetos reais</sub>
 </p>
 
 | Tecnologia | Nível | Foco atual |
@@ -51,9 +50,9 @@ Sou apaixonado por computação e estou em desenvolvimento na área, com foco pr
 
 <p align="center">
   <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-FF4FD8?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=2A2A2E" />
-  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-F9A8D4?style=for-the-badge&logo=openai&logoColor=2A2A2E&labelColor=2A2A2E" />
-  <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-374151?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=2A2A2E" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-E5E7EB?style=for-the-badge&logo=visualstudiocode&logoColor=2A2A2E&labelColor=2A2A2E" />
+  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-FF4FD8?style=for-the-badge&logo=openai&logoColor=white&labelColor=2A2A2E" />
+  <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-FF4FD8?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=2A2A2E" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-FF4FD8?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=2A2A2E" />
 </p>
 
 ## Mapa do perfil
