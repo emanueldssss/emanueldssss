@@ -1,62 +1,85 @@
-<svg width="1200" height="380" viewBox="0 0 1200 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="380" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#070A12"/>
-      <stop offset="0.52" stop-color="#0D1117"/>
-      <stop offset="1" stop-color="#111827"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#05050A"/>
+      <stop offset="0.48" stop-color="#0B0B14"/>
+      <stop offset="1" stop-color="#15101F"/>
     </linearGradient>
-    <radialGradient id="glowPink" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(935 80) rotate(119.4) scale(260 360)">
-      <stop stop-color="#FF4FD8" stop-opacity="0.68"/>
+    <linearGradient id="edge" x1="80" y1="54" x2="1120" y2="366" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF4FD8" stop-opacity="0.7"/>
+      <stop offset="0.5" stop-color="#F8FAFC" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#D946EF" stop-opacity="0.58"/>
+    </linearGradient>
+    <radialGradient id="pinkGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(935 66) rotate(135) scale(360 300)">
+      <stop stop-color="#FF4FD8" stop-opacity="0.62"/>
       <stop offset="1" stop-color="#FF4FD8" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="glowGrey" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(170 310) rotate(-24.8) scale(330 230)">
-      <stop stop-color="#E5E7EB" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#E5E7EB" stop-opacity="0"/>
+    <radialGradient id="violetGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(190 362) rotate(-20) scale(360 230)">
+      <stop stop-color="#D946EF" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#D946EF" stop-opacity="0"/>
     </radialGradient>
-    <filter id="softShadow" x="140" y="50" width="920" height="290" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feDropShadow dx="0" dy="26" stdDeviation="28" flood-color="#000000" flood-opacity="0.42"/>
+    <linearGradient id="pinkFill" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FF4FD8"/>
+      <stop offset="1" stop-color="#D946EF"/>
+    </linearGradient>
+    <filter id="shadow" x="46" y="30" width="1108" height="370" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="28" stdDeviation="30" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+    <filter id="textGlow" x="0" y="0" width="1200" height="420" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#FF4FD8" flood-opacity="0.42"/>
     </filter>
   </defs>
 
-  <rect width="1200" height="380" rx="30" fill="url(#bg)"/>
-  <rect width="1200" height="380" rx="30" fill="url(#glowPink)"/>
-  <rect width="1200" height="380" rx="30" fill="url(#glowGrey)"/>
+  <rect width="1200" height="420" rx="34" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="34" fill="url(#pinkGlow)"/>
+  <rect width="1200" height="420" rx="34" fill="url(#violetGlow)"/>
 
-  <g opacity="0.26">
-    <path d="M64 74H1136" stroke="#263244"/>
-    <path d="M64 126H1136" stroke="#263244"/>
-    <path d="M64 178H1136" stroke="#263244"/>
-    <path d="M64 230H1136" stroke="#263244"/>
-    <path d="M64 282H1136" stroke="#263244"/>
-    <path d="M168 44V334" stroke="#263244"/>
-    <path d="M324 44V334" stroke="#263244"/>
-    <path d="M480 44V334" stroke="#263244"/>
-    <path d="M636 44V334" stroke="#263244"/>
-    <path d="M792 44V334" stroke="#263244"/>
-    <path d="M948 44V334" stroke="#263244"/>
+  <g opacity="0.22">
+    <path d="M84 86H1116" stroke="#334155"/>
+    <path d="M84 154H1116" stroke="#334155"/>
+    <path d="M84 222H1116" stroke="#334155"/>
+    <path d="M84 290H1116" stroke="#334155"/>
+    <path d="M178 44V376" stroke="#334155"/>
+    <path d="M358 44V376" stroke="#334155"/>
+    <path d="M538 44V376" stroke="#334155"/>
+    <path d="M718 44V376" stroke="#334155"/>
+    <path d="M898 44V376" stroke="#334155"/>
+    <path d="M1078 44V376" stroke="#334155"/>
   </g>
 
-  <g filter="url(#softShadow)">
-    <rect x="172" y="68" width="856" height="244" rx="22" fill="#0B1020" stroke="#243042"/>
-    <rect x="172" y="68" width="856" height="52" rx="22" fill="#111827"/>
-    <path d="M172 104H1028" stroke="#243042"/>
-    <circle cx="208" cy="94" r="8" fill="#FF5F57"/>
-    <circle cx="236" cy="94" r="8" fill="#FFBD2E"/>
-    <circle cx="264" cy="94" r="8" fill="#28C840"/>
-    <text x="600" y="99" text-anchor="middle" fill="#94A3B8" font-family="Consolas, 'SFMono-Regular', monospace" font-size="15">emanueldssss / Java training room</text>
+  <path d="M74 318C151 244 211 224 296 236C395 250 437 328 535 314C642 299 667 181 785 162C891 145 967 219 1132 174" stroke="#FF4FD8" stroke-opacity="0.32" stroke-width="3"/>
+  <path d="M88 104C176 73 250 80 310 119C402 179 478 178 566 126C660 70 767 53 870 94" stroke="#F8FAFC" stroke-opacity="0.12" stroke-width="2"/>
 
-    <text x="214" y="150" fill="#FF4FD8" font-family="Consolas, 'SFMono-Regular', monospace" font-size="22" font-weight="700">$ javac Main.java &amp;&amp; java Main</text>
-    <text x="214" y="188" fill="#E5E7EB" font-family="Consolas, 'SFMono-Regular', monospace" font-size="28" font-weight="700">System.out.println(&quot;Hello, GitHub&quot;);</text>
-    <text x="214" y="228" fill="#A7F3D0" font-family="Consolas, 'SFMono-Regular', monospace" font-size="22">Java beginner | HTML &amp; CSS | Python</text>
-    <text x="214" y="266" fill="#E5E7EB" font-family="Consolas, 'SFMono-Regular', monospace" font-size="18">computacao, criatividade, jogos e IA.</text>
+  <g filter="url(#shadow)">
+    <rect x="72" y="52" width="1056" height="316" rx="28" fill="#0A0A12" stroke="url(#edge)"/>
+    <rect x="72" y="52" width="1056" height="58" rx="28" fill="#11111D"/>
+    <path d="M72 110H1128" stroke="#27273A"/>
+    <circle cx="110" cy="82" r="8" fill="#FF5F57"/>
+    <circle cx="138" cy="82" r="8" fill="#FFBD2E"/>
+    <circle cx="166" cy="82" r="8" fill="#28C840"/>
+    <text x="600" y="88" text-anchor="middle" fill="#A1A1AA" font-family="Consolas, 'SFMono-Regular', monospace" font-size="15" letter-spacing="1.8">emanueldssss.training-room</text>
 
-    <rect x="782" y="140" width="178" height="124" rx="20" fill="#111114" stroke="#4B5563"/>
-    <circle cx="871" cy="180" r="35" fill="#FF4FD8" fill-opacity="0.18" stroke="#FF4FD8"/>
-    <text x="871" y="191" text-anchor="middle" fill="#FF4FD8" font-family="Consolas, 'SFMono-Regular', monospace" font-size="34" font-weight="800">J</text>
-    <text x="871" y="226" text-anchor="middle" fill="#CBD5E1" font-family="Consolas, 'SFMono-Regular', monospace" font-size="15">GOKU MODE</text>
-    <text x="871" y="248" text-anchor="middle" fill="#94A3B8" font-family="Consolas, 'SFMono-Regular', monospace" font-size="12">train &gt; code &gt; level up</text>
+    <text x="112" y="156" fill="#FF4FD8" font-family="Consolas, 'SFMono-Regular', monospace" font-size="20" font-weight="700">$ boot --mode=beginner --truth=on</text>
+    <text x="112" y="202" fill="#F8FAFC" font-family="Consolas, 'SFMono-Regular', monospace" font-size="34" font-weight="800" filter="url(#textGlow)">System.out.println(&quot;Hello, GitHub&quot;);</text>
+    <text x="112" y="244" fill="#E5E7EB" font-family="Consolas, 'SFMono-Regular', monospace" font-size="21">main quest: Java fundamentals</text>
+    <text x="112" y="280" fill="#CBD5E1" font-family="Consolas, 'SFMono-Regular', monospace" font-size="21">side quests: HTML/CSS visuals + Python logic</text>
+    <text x="112" y="316" fill="#94A3B8" font-family="Consolas, 'SFMono-Regular', monospace" font-size="18">rule: build small, break things, fix them, publish real progress.</text>
+
+    <rect x="818" y="136" width="236" height="178" rx="26" fill="#111114" stroke="#3F3F46"/>
+    <circle cx="936" cy="198" r="48" fill="#FF4FD8" fill-opacity="0.13" stroke="#FF4FD8" stroke-opacity="0.76"/>
+    <circle cx="936" cy="198" r="35" fill="url(#pinkFill)" fill-opacity="0.18" stroke="#F8FAFC" stroke-opacity="0.18"/>
+    <text x="936" y="213" text-anchor="middle" fill="#FF4FD8" font-family="Consolas, 'SFMono-Regular', monospace" font-size="48" font-weight="900">01</text>
+    <text x="936" y="267" text-anchor="middle" fill="#F8FAFC" font-family="Consolas, 'SFMono-Regular', monospace" font-size="19" font-weight="800">LEVEL BEGINNER</text>
+    <text x="936" y="291" text-anchor="middle" fill="#A1A1AA" font-family="Consolas, 'SFMono-Regular', monospace" font-size="13" letter-spacing="1.4">TRAINING ARC ACTIVE</text>
+
+    <rect x="838" y="326" width="62" height="24" rx="12" fill="#FF4FD8" fill-opacity="0.16" stroke="#FF4FD8" stroke-opacity="0.38"/>
+    <rect x="914" y="326" width="62" height="24" rx="12" fill="#FF4FD8" fill-opacity="0.16" stroke="#FF4FD8" stroke-opacity="0.38"/>
+    <rect x="990" y="326" width="46" height="24" rx="12" fill="#FF4FD8" fill-opacity="0.16" stroke="#FF4FD8" stroke-opacity="0.38"/>
+    <text x="869" y="342" text-anchor="middle" fill="#F8FAFC" font-family="Consolas, 'SFMono-Regular', monospace" font-size="12" font-weight="700">JAVA</text>
+    <text x="945" y="342" text-anchor="middle" fill="#F8FAFC" font-family="Consolas, 'SFMono-Regular', monospace" font-size="12" font-weight="700">HTML</text>
+    <text x="1013" y="342" text-anchor="middle" fill="#F8FAFC" font-family="Consolas, 'SFMono-Regular', monospace" font-size="12" font-weight="700">PY</text>
   </g>
 
-  <path d="M995 68C1044 83 1080 119 1091 168" stroke="#FF4FD8" stroke-opacity="0.54" stroke-width="2"/>
-  <path d="M148 282C111 256 91 220 88 176" stroke="#E5E7EB" stroke-opacity="0.3" stroke-width="2"/>
+  <text x="88" y="398" fill="#52525B" font-family="Consolas, 'SFMono-Regular', monospace" font-size="12">pink terminal profile / github readme / real beginner progress</text>
+  <text x="1112" y="398" text-anchor="end" fill="#71717A" font-family="Consolas, 'SFMono-Regular', monospace" font-size="12">v2</text>
 </svg>
