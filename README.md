@@ -2,7 +2,7 @@
   <img src="./src/terminal.svg" alt="Banner do perfil de emanueldssss" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=console.log('Hello%2C+GitHub');Perfil+em+constru%C3%A7%C3%A3o+p%C3%BAblica;Estudo+%2B+c%C3%B3digo+%2B+projetos+reais" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=900&lines=System.out.println(%22Hello%2C+GitHub%22);Java+%E2%80%A2+HTML+%26+CSS+%E2%80%A2+Python;Computa%C3%A7%C3%A3o%2C+anime+e+muito+carinho" alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,49 +23,58 @@
 
 <img align="right" alt="Octocat" width="280" src="https://github.githubassets.com/images/mona-whisper.gif" />
 
-Perfil recém-criado, mas com uma direção clara: transformar estudo em projeto, registrar evolução e publicar código com contexto.
+Sou apaixonado por computação e estou em desenvolvimento na área, com foco principal em Java. Gosto de aprender construindo, errando, corrigindo e deixando cada projeto um pouco melhor que o anterior.
 
-- Construindo uma base pública de projetos, estudos e experimentos.
-- Priorizando READMEs claros, com objetivo, stack, prints e instruções de uso.
-- Mantendo este perfil como vitrine de evolução real, sem inflar experiência.
-- Melhor forma de acompanhar: seguir o perfil e observar os novos repositórios.
+- Estudando Java como base principal de lógica e programação orientada a objetos.
+- Praticando HTML & CSS para criar páginas simples, bonitas e organizadas.
+- Usando Python para treinar raciocínio, automações pequenas e exercícios.
+- Curto animes, programação e essa energia de treinar todo dia para evoluir, tipo Goku.
+- Quero manter este perfil verdadeiro: nível beginner, evolução real e projetos com carinho.
 
 <br clear="right" />
 
 ## Stack em foco
 
-<p align="left">
-  <img alt="HTML5" title="HTML5" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="CSS3" title="CSS3" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" title="JavaScript" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="TypeScript" title="TypeScript" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="React" title="React" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Node.js" title="Node.js" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="Python" title="Python" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="Git" title="Git" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="GitHub" title="GitHub" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img alt="VS Code" title="VS Code" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<p align="center">
+  <img alt="Java beginner" src="https://img.shields.io/badge/Java-Beginner-F97316?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=111827" />
+  <img alt="HTML beginner" src="https://img.shields.io/badge/HTML-Beginner-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=111827" />
+  <img alt="CSS beginner" src="https://img.shields.io/badge/CSS-Beginner-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=111827" />
+  <img alt="Python beginner" src="https://img.shields.io/badge/Python-Beginner-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=111827" />
+</p>
+
+| Tecnologia | Nível atual | Onde estou focando |
+| --- | --- | --- |
+| Java | Beginner | Lógica, sintaxe, classes, métodos e primeiros projetos no terminal. |
+| HTML & CSS | Beginner | Estrutura de páginas, semântica, responsividade e visual limpo. |
+| Python | Beginner | Exercícios, scripts simples e treino de raciocínio. |
+
+## Ferramentas e IA que curto
+
+<p align="center">
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=111827" />
+  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white&labelColor=111827" />
+  <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-0D1117?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=111827" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=111827" />
 </p>
 
 ## Mapa do perfil
 
 | Área | Como vai aparecer aqui |
 | --- | --- |
-| Projetos | Aplicações pequenas, bem documentadas e com link de uso quando houver deploy. |
-| Estudos | Repositórios objetivos, com anotações práticas e exemplos que rodam. |
-| Evolução | Commits frequentes, histórico limpo e README atualizado conforme o perfil amadurece. |
-| Documentação | Explicação do problema, decisão técnica, como executar e próximos passos reais. |
+| Projetos | Aplicações pequenas em Java, HTML & CSS e Python, com README claro. |
+| Estudos | Exercícios e anotações práticas para acompanhar minha evolução. |
+| Evolução | Commits reais, sem fingir nível avançado antes da hora. |
+| Estilo | Código, animes, disciplina e carinho nos detalhes. |
 
-## GitHub em números
-
-<div align="center">
-  <img height="170" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=emanueldssss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=7C3AED&ring_color=7C3AED&rank_icon=github" />
-  <img height="170" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanueldssss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
-</div>
+## Painel do GitHub
 
 <div align="center">
-  <img alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=emanueldssss&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=00D9FF&currStreakLabel=00D9FF" />
+  <img alt="Resumo do perfil GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emanueldssss&theme=tokyonight" />
 </div>
+
+<p align="center">
+  <sub>Os cards de linguagens ficam melhores conforme os primeiros repositórios públicos forem nascendo.</sub>
+</p>
 
 ## Laboratório público
 
@@ -80,14 +89,8 @@ Perfil recém-criado, mas com uma direção clara: transformar estudo em projeto
 
 Os primeiros repositórios públicos vão aparecer aqui conforme forem publicados. A ideia é manter cada entrega pequena, visual e fácil de abrir.
 
-## Cobrinha de contribuições
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emanueldssss/emanueldssss/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emanueldssss/emanueldssss/output/github-contribution-grid-snake.svg" />
   <img alt="Animação da cobrinha comendo as contribuições do GitHub" src="https://raw.githubusercontent.com/emanueldssss/emanueldssss/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<div align="center">
-  <sub>Gerado por GitHub Actions com <a href="https://github.com/Platane/snk">Platane/snk</a>.</sub>
-</div>
