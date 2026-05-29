@@ -8,34 +8,42 @@
 
 <p align="center">
   <a href="https://github.com/emanueldssss">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-FF4FD8?style=for-the-badge&logo=github&logoColor=white&labelColor=2A2A2E" />
+    <img alt="GitHub" src="./src/badges/github.svg" width="210" />
   </a>
   <a href="https://github.com/emanueldssss?tab=followers">
-    <img alt="Seguidores" src="https://img.shields.io/badge/Seguidores-FF4FD8?style=for-the-badge&logo=github&logoColor=white&labelColor=2A2A2E" />
+    <img alt="Seguidores" src="./src/badges/followers.svg" width="210" />
   </a>
   <a href="https://github.com/emanueldssss?tab=repositories">
-    <img alt="Repositórios" src="https://img.shields.io/badge/Repositórios-FF4FD8?style=for-the-badge&logo=github&logoColor=white&labelColor=2A2A2E" />
+    <img alt="Repositórios" src="./src/badges/repos.svg" width="210" />
   </a>
-  <img alt="Visitas" src="https://img.shields.io/badge/Visitas-FF4FD8?style=for-the-badge&logo=github&logoColor=white&labelColor=2A2A2E" />
+  <img alt="Visitas" src="./src/badges/visits.svg" width="210" />
 </p>
 
-## Sobre mim
+<br>
+
+<p align="center">
+  <img alt="Sobre mim" src="./src/badges/badge-about.svg" width="110" />
+</p>
 
 Sou apaixonado por computação e estou em desenvolvimento na área, com foco principal em Java. Gosto de aprender construindo, errando, corrigindo e deixando cada projeto um pouco melhor que o anterior.
 
-- 🔰 **Java** — base principal de lógica e programação orientada a objetos
-- 🎨 **HTML & CSS** — páginas simples, bonitas e organizadas
-- 🐍 **Python** — raciocínio, automações pequenas e exercícios
-- 🎮 Curto programação, jogos, IA e essa energia de treinar todo dia para evoluir, tipo Goku
-- 💎 Quero manter este perfil verdadeiro: nível beginner, evolução real e projetos com carinho
+<p align="center">
+  🔰 <b>Java</b> &nbsp;·&nbsp; 🎨 <b>HTML & CSS</b> &nbsp;·&nbsp; 🐍 <b>Python</b>
+  <br>
+  🎮 Curto programação, jogos, IA e essa energia de treinar todo dia para evoluir
+  <br>
+  💎 Perfil verdadeiro: nível beginner, evolução real, projetos com carinho
+</p>
+
+<br>
 
 ## Stack em foco
 
 <p align="center">
-  <img alt="Java" src="https://img.shields.io/badge/Java-FF4FD8?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=2A2A2E" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-FF4FD8?style=for-the-badge&logo=html5&logoColor=white&labelColor=2A2A2E" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-FF4FD8?style=for-the-badge&logo=css3&logoColor=white&labelColor=2A2A2E" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-FF4FD8?style=for-the-badge&logo=python&logoColor=white&labelColor=2A2A2E" />
+  <img alt="Java" src="./src/badges/java.svg" width="80" />
+  <img alt="HTML" src="./src/badges/html.svg" width="80" />
+  <img alt="CSS" src="./src/badges/css.svg" width="80" />
+  <img alt="Python" src="./src/badges/python.svg" width="80" />
   <br>
   <sub>Iniciando cada uma com projetos reais</sub>
 </p>
@@ -49,10 +57,10 @@ Sou apaixonado por computação e estou em desenvolvimento na área, com foco pr
 ## Ferramentas e IA que curto
 
 <p align="center">
-  <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-FF4FD8?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=2A2A2E" />
-  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-FF4FD8?style=for-the-badge&logo=openai&logoColor=white&labelColor=2A2A2E" />
-  <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-FF4FD8?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=2A2A2E" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-FF4FD8?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=2A2A2E" />
+  <img alt="Claude Code" src="./src/badges/claude.svg" width="140" />
+  <img alt="ChatGPT" src="./src/badges/chatgpt.svg" width="140" />
+  <img alt="OpenCode" src="./src/badges/opencode.svg" width="140" />
+  <img alt="VS Code" src="./src/badges/vscode.svg" width="140" />
 </p>
 
 ## Mapa do perfil
@@ -78,10 +86,10 @@ Sou apaixonado por computação e estou em desenvolvimento na área, com foco pr
 
 <p align="center">
   <a href="https://github.com/emanueldssss?tab=repositories">
-    <img alt="Ver repositórios" src="https://custom-icon-badges.demolab.com/badge/-Ver%20reposit%C3%B3rios-2A2A2E?style=for-the-badge&logo=repo&logoColor=white&labelColor=FF4FD8" />
+    <img alt="Ver repositórios" src="./src/badges/btn-repos.svg" width="220" />
   </a>
   <a href="https://github.com/emanueldssss/emanueldssss/issues">
-    <img alt="Abrir conversa por issue" src="https://custom-icon-badges.demolab.com/badge/-Abrir%20conversa-FF4FD8?style=for-the-badge&logo=comment-discussion&logoColor=white&labelColor=2A2A2E" />
+    <img alt="Abrir conversa" src="./src/badges/btn-contato.svg" width="220" />
   </a>
 </p>
 

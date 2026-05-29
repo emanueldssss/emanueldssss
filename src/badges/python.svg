@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 92">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FF4FD8"/>
+      <stop offset="100%" stop-color="#D946EF"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FF4FD8" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#D946EF" stop-opacity="0.1"/>
+    </linearGradient>
+    <filter id="glow">
+      <feDropShadow dx="0" dy="3" stdDeviation="6" flood-color="#FF4FD8" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+  <circle cx="40" cy="36" r="30" fill="none" stroke="url(#ring)" stroke-width="1.5"/>
+  <circle cx="40" cy="36" r="26" fill="url(#bg)" filter="url(#glow)"/>
+  <g fill="none" stroke="white" stroke-width="2" stroke-linecap="round" transform="translate(40,36)">
+    <path d="M-6,-14 C-14,-14 -14,-6 -14,0 C-14,6 -10,8 -6,8 C0,8 6,6 6,0 C6,-6 0,-8 -6,-8"/>
+    <path d="M6,14 C14,14 14,6 14,0 C14,-6 10,-8 6,-8 C0,-8 -6,-6 -6,0 C-6,6 0,8 6,8"/>
+  </g>
+  <text x="40" y="78" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" fill="#F8FAFC" font-weight="600" text-anchor="middle">Python</text>
+</svg>

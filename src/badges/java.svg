@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 92">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FF4FD8"/>
+      <stop offset="100%" stop-color="#D946EF"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FF4FD8" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#D946EF" stop-opacity="0.1"/>
+    </linearGradient>
+    <filter id="glow">
+      <feDropShadow dx="0" dy="3" stdDeviation="6" flood-color="#FF4FD8" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+  <circle cx="40" cy="36" r="30" fill="none" stroke="url(#ring)" stroke-width="1.5"/>
+  <circle cx="40" cy="36" r="26" fill="url(#bg)" filter="url(#glow)"/>
+  <g fill="white" transform="translate(40,36)">
+    <path d="M-5-14c-3 0-5 2-5 5v8c0 3 2 5 5 5h10c3 0 5-2 5-5v-3h-5v2h-4v-6h9c3 0 5-2 5-5v-1c0-3-2-5-5-5H-5z" stroke="white" stroke-width="0.8" fill="none"/>
+    <rect x="-5" y="-10" width="10" height="2" fill="white" rx="0.5"/>
+    <rect x="-5" y="-6" width="8" height="2" fill="white" rx="0.5"/>
+  </g>
+  <text x="40" y="78" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" fill="#F8FAFC" font-weight="600" text-anchor="middle">Java</text>
+</svg>
