@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHQ3OG5nMmdya2k2aHl1bXZxMWw0N3pieGczdDdnNXhiOWplaDhuMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vThGQEkz4f9eg/giphy.gif" alt="Goku com aura" width="800" height="500" style="max-width:100%; border-radius:16px; box-shadow: 0 8px 32px rgba(0,0,0,0.5);" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjZWFlMjlhM25tY2lndDJ0ZXJycTlwZHdjMXVyZzh1aTFicWE0eTRsaWZvN25nbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/84CRvhy2DJlwA/giphy.gif" alt="Goku sorrindo" width="800" height="500" style="max-width:100%; border-radius:16px; box-shadow: 0 8px 32px rgba(0,0,0,0.5);" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=FF4FD8&center=true&vCenter=true&width=900&lines=System.out.println(%22Hello%2C+GitHub%22);Java+Beginner+%7C+HTML+%26+CSS+%7C+Python;Computa%C3%A7%C3%A3o%2C+Criatividade%2C+Jogos+e+IA" alt="Typing SVG" />
