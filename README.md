@@ -4,14 +4,6 @@
 
 <br>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=1200&color=FF4FD8&center=true&vCenter=true&width=900&lines=Java+first.;Build.+Break.+Learn.;Small+projects.+Real+progress."/>
-</a>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=java,html,css,python,git,github,vscode,idea&theme=dark" />
-
 </div>
 
 ---
