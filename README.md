@@ -1,11 +1,3 @@
-<div align="center">
-
-<img src="./src/terminal.svg" width="100%" />
-
-<br>
-
-</div>
-
 ---
 
 Sou estudante de programação.
