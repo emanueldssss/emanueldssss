@@ -1,9 +1,8 @@
 ---
+SOBRE O EMANUEL.
 
 Sou estudante de programação.
-
 Meu foco é construir uma base sólida em **Java**, criando projetos pequenos que realmente funcionam e documentando cada aprendizado.
-
 Não tenho interesse em quantidade de repositórios.
 Prefiro publicar poucos projetos, mas que demonstrem evolução.
 
