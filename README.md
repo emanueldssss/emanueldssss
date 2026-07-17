@@ -16,24 +16,6 @@
 
 ---
 
-# Emanuel
-
-```java
-public class Emanuel {
-
-    static final String MAIN_LANGUAGE = "Java";
-
-    String[] learning = {
-        "Object Oriented Programming",
-        "HTML & CSS",
-        "Python"
-    };
-
-    String workflow = "build -> test -> improve";
-
-}
-```
-
 Sou estudante de programação.
 
 Meu foco é construir uma base sólida em **Java**, criando projetos pequenos que realmente funcionam e documentando cada aprendizado.
@@ -71,18 +53,6 @@ Prefiro publicar poucos projetos, mas que demonstrem evolução.
 - Estruturas de Dados
 - HTML + CSS
 - Python
-
----
-
-## Próximos projetos
-
-| Projeto | Status |
-|---------|--------|
-| Java Calculator | ⏳ |
-| Banking System | ⏳ |
-| Task Manager | ⏳ |
-| HTML Landing Page | ⏳ |
-| Python Automation | ⏳ |
 
 ---
 
