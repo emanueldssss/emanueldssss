@@ -1,0 +1,48 @@
+<svg width="1280" height="400" viewBox="0 0 1280 400" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Emanuel — developer tools, automation and AI systems</title>
+  <desc id="description">A dark editorial banner with luminous violet and aqua accents.</desc>
+  <defs>
+    <linearGradient id="surface" x1="65" y1="30" x2="1215" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#100D1B"/>
+      <stop offset="0.52" stop-color="#171129"/>
+      <stop offset="1" stop-color="#0B1620"/>
+    </linearGradient>
+    <radialGradient id="violet" cx="0" cy="0" r="1" gradientTransform="translate(255 95) rotate(40) scale(400 275)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9B6DFF" stop-opacity="0.48"/>
+      <stop offset="1" stop-color="#9B6DFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="aqua" cx="0" cy="0" r="1" gradientTransform="translate(1105 345) rotate(-145) scale(420 255)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#56F1D2" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#56F1D2" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur" x="-120" y="-120" width="1520" height="640" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="26"/>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#F4F2FF" stroke-opacity="0.055"/>
+    </pattern>
+    <linearGradient id="word" x1="101" y1="137" x2="705" y2="242" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#D9D1FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="400" rx="22" fill="url(#surface)"/>
+  <rect width="1280" height="400" rx="22" fill="url(#grid)"/>
+  <ellipse cx="265" cy="77" rx="270" ry="156" fill="#8B5CF6" fill-opacity="0.2" filter="url(#blur)"/>
+  <ellipse cx="1080" cy="332" rx="290" ry="145" fill="#2DD4BF" fill-opacity="0.15" filter="url(#blur)"/>
+  <rect width="1280" height="400" rx="22" fill="url(#violet)"/>
+  <rect width="1280" height="400" rx="22" fill="url(#aqua)"/>
+  <path d="M803 58H1169" stroke="#A899EC" stroke-opacity="0.32"/>
+  <path d="M1004 58V118" stroke="#A899EC" stroke-opacity="0.32"/>
+  <circle cx="1004" cy="58" r="5" fill="#62E6CF"/>
+  <path d="M811 298H1180" stroke="#62E6CF" stroke-opacity="0.22"/>
+  <path d="M1110 298V350" stroke="#62E6CF" stroke-opacity="0.22"/>
+  <circle cx="1110" cy="298" r="5" fill="#9B6DFF"/>
+  <text x="90" y="94" fill="#62E6CF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" font-weight="700" letter-spacing="4">EMANUEL / 01</text>
+  <text x="88" y="198" fill="url(#word)" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="800" letter-spacing="-3">BUILDING USEFUL</text>
+  <text x="88" y="278" fill="url(#word)" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="800" letter-spacing="-3">THINGS, DELIBERATELY.</text>
+  <text x="93" y="329" fill="#C6C1D5" font-family="Arial, Helvetica, sans-serif" font-size="20">Developer tools · automation · AI systems</text>
+  <rect x="1118" y="115" width="72" height="72" rx="18" stroke="#F4F2FF" stroke-opacity="0.3"/>
+  <path d="M1141 152H1167M1154 139V165" stroke="#62E6CF" stroke-width="4" stroke-linecap="round"/>
+  <path d="M88 358H550" stroke="#F4F2FF" stroke-opacity="0.17"/>
+</svg>
