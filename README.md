@@ -1,59 +1,85 @@
-<p align="center">
-  <img src="./src/banner.svg" width="100%" alt="Emanuel — Developer tools, automation and AI systems">
-</p>
+<table>
+  <tr>
+    <td width="68%" valign="middle">
+      <h1>e aí, eu sou o Emanuel.</h1>
+      <p>Tenho 15 anos e sou um dev em ascensão. Curto entender como as coisas funcionam, transformar ideia em ferramenta e deixar cada projeto melhor do que o anterior.</p>
+      <p>Já trabalho com IA e automações; agora estou entrando de vez em programação mais avançada. Tenho domínio básico de <strong>Python, Java, HTML e CSS</strong>, e a vontade de aprender mais nunca fica em modo pausa.</p>
+      <p><strong>Meu objetivo:</strong> construir coisas que funcionam de verdade e evoluir uma linha de código por vez.</p>
+    </td>
+    <td width="32%" align="center" valign="middle">
+      <img src="./src/media/kokushibou.png" width="210" alt="Arte de Kokushibou, personagem de Demon Slayer">
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="mailto:emanueldssss@proton.me"><img src="https://img.shields.io/badge/CONTACT-emanueldssss%40proton.me-8b5cf6?style=for-the-badge&labelColor=0d0b16" alt="Contact Emanuel"></a>
-  <img src="https://img.shields.io/badge/BUILDING-IN%20PUBLIC-62e6cf?style=for-the-badge&labelColor=0d0b16" alt="Building in public">
+  <img src="https://img.shields.io/badge/15%20ANOS-ff385c?style=for-the-badge&labelColor=16090d" alt="15 anos">
+  <img src="https://img.shields.io/badge/DEV%20EM%20ASCENS%C3%83O-f59e0b?style=for-the-badge&labelColor=16090d" alt="Dev em ascensão">
+  <a href="mailto:emanueldssss@proton.me"><img src="https://img.shields.io/badge/CONTATO-emanueldssss%40proton.me-ff385c?style=for-the-badge&labelColor=16090d" alt="Contato por e-mail"></a>
 </p>
 
-<br>
+## Minha jornada agora
 
-## Building tools that make developers faster
+Comecei construindo uma base em Java, orientação a objetos e estruturas de dados. Isso me levou para Python, automações e ferramentas para agentes de IA. Cada repositório aqui é um pedaço dessa evolução: menos projeto de vitrine, mais código que resolve um problema e me obriga a aprender algo novo.
 
-I build focused developer tools around AI, automation and privacy. The work here is practical: clear setup, thoughtful defaults and software people can actually run.
+## Onde estou contribuindo
 
-<br>
+<table>
+  <tr>
+    <td width="72%" valign="top">
+      <h3><a href="https://github.com/AnThophicous/plif">PLIF</a> — meu foco principal</h3>
+      <p>Um coding agent para terminal, feito para sessões longas com memória, skills, configuração e execução mais segura. É onde concentro boa parte da minha energia hoje.</p>
+      <p>Tenho contribuído para as skills internas, painel de atividade, persistência de sessão, fluxos de configuração e suporte ao Codex no Windows.</p>
+      <p><code>TypeScript</code> <code>CLI</code> <code>Agentes de IA</code> <code>Developer experience</code></p>
+    </td>
+    <td width="28%" align="center" valign="middle">
+      <a href="https://github.com/AnThophicous/plif"><img src="https://img.shields.io/badge/VER%20O%20PLIF-ff385c?style=for-the-badge&labelColor=16090d" alt="Ver o projeto PLIF"></a>
+    </td>
+  </tr>
+</table>
 
-## Selected work
+## Outros projetos do caminho
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/emanueldssss/fusion">01 — Fusion</a></h3>
-      <p>A multi-agent debate engine: two models reason together and a third synthesizes the final answer. Built with secure key handling, rate limits and redacted logs.</p>
-      <p><code>Python</code> <code>LLM orchestration</code> <code>CLI</code></p>
+      <h3><a href="https://github.com/emanueldssss/fusion">Fusion</a></h3>
+      <p>Um motor de debate entre agentes: dois modelos discutem uma tarefa e outro modelo sintetiza a resposta.</p>
+      <p><code>Python</code> <code>LLM orchestration</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/emanueldssss/SeeIT-skill">02 — SeeIT</a></h3>
-      <p>A skill and MCP server that gives non-visual agents a way to inspect, describe and extract information from images through vision models.</p>
+      <h3><a href="https://github.com/emanueldssss/SeeIT-skill">SeeIT</a></h3>
+      <p>Skill e servidor MCP para agentes sem visão analisarem imagens com modelos vision.</p>
       <p><code>Python</code> <code>MCP</code> <code>Vision AI</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>03 — Torify</h3>
-      <p>Cross-platform tooling to route applications through Tor with a friendly CLI, automated setup and straightforward network checks.</p>
+      <h3>Torify</h3>
+      <p>Ferramentas para rotear aplicações pelo Tor, com instalação guiada e uma experiência simples no terminal.</p>
       <p><a href="https://github.com/emanueldssss/Torify-Linux">Linux</a> &nbsp;·&nbsp; <a href="https://github.com/emanueldssss/Torify-Windows">Windows</a></p>
-      <p><code>Python</code> <code>PowerShell</code> <code>Networking</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>04 — What I’m exploring</h3>
-      <p>Agent skills, tool calling, reliable local automation and the engineering choices that turn a prototype into a useful daily tool.</p>
-      <p><code>Java</code> <code>Data structures</code> <code>HTML / CSS</code></p>
+      <h3>Base em construção</h3>
+      <p>Estou fortalecendo algoritmos, estruturas de dados, orientação a objetos e front-end. A meta é sair do básico sem pular etapas.</p>
+      <p><code>Python</code> <code>Java</code> <code>HTML</code> <code>CSS</code></p>
     </td>
   </tr>
 </table>
 
-<br>
-
-## Toolbox
+## Ferramentas que uso
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,linux,vscode,idea&theme=dark" alt="Python, Java, HTML, CSS, Git, GitHub, Linux, VS Code and IntelliJ IDEA">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,linux,vscode,idea&theme=dark" alt="Python, Java, HTML, CSS, Git, GitHub, Linux, VS Code e IntelliJ IDEA">
 </p>
 
-<br>
+## Minha atividade
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emanueldssss/emanueldssss/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emanueldssss/emanueldssss/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/emanueldssss/emanueldssss/output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições do Emanuel no GitHub">
+</picture>
 
 <p align="center">
   <a href="mailto:emanueldssss@proton.me">emanueldssss@proton.me</a>
