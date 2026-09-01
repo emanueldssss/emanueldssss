@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="68%" valign="middle">
-      <h1>e aí, eu sou o Emanuel.</h1>
+      <h1>Eu sou o Emanuel.</h1>
       <p>Tenho 15 anos e sou um dev em ascensão. Curto entender como as coisas funcionam, transformar ideia em ferramenta e deixar cada projeto melhor do que o anterior.</p>
       <p>Já trabalho com IA e automações; agora estou entrando de vez em programação mais avançada. Tenho domínio básico de <strong>Python, Java, HTML e CSS</strong>, e a vontade de aprender mais nunca fica em modo pausa.</p>
       <p><strong>Meu objetivo:</strong> construir coisas que funcionam de verdade e evoluir uma linha de código por vez.</p>
